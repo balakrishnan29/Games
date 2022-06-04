@@ -1,0 +1,26 @@
+#apps{
+    width: 100%;
+        height: 800px;
+    background-color: azure;
+}
+body{
+    text-align: center;
+}
+    
+.line{
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+    background-color: black;
+        
+}
+#games{
+    width: 100%;
+        height: 800px;
+    background-color: cornflowerblue;
+}
+#bot{
+    width: 100%;
+        height: 800px;
+    background-color: cadetblue;
+}
